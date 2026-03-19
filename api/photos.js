@@ -34,6 +34,11 @@ const PHOTOS = [
     file: "photo5.jpg",
     caption: "Warm winter evenings 🔥",
   },
+  {
+    id: 6,
+    file: "photo6.jpg",
+    caption: "Warm test",
+  },
 
   // ── ADD MORE PHOTOS HERE ──────────────────────────────────
   // {
