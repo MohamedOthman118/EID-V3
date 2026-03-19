@@ -37,9 +37,23 @@ const PHOTOS = [
   {
     id: 6,
     file: "photo6.jpg",
+    caption: "bo2 bo2 bo2",
+  },
+ {
+    id: 7,
+    file: "photo7.jpg",
+    caption: "The coolest girl ever!!",
+  },
+   {
+    id: 8,
+    file: "photo8.jpg",
     caption: "Funny You :)",
   },
-
+   {
+    id: 9,
+    file: "photo9.jpg",
+    caption: "Our promise ring :)",
+  },
   // ── ADD MORE PHOTOS HERE ──────────────────────────────────
   // {
   //   id: 6,
