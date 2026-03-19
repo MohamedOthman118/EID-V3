@@ -37,7 +37,7 @@ const PHOTOS = [
   {
     id: 6,
     file: "photo6.jpg",
-    caption: "Warm test",
+    caption: "Funny You :)",
   },
 
   // ── ADD MORE PHOTOS HERE ──────────────────────────────────
