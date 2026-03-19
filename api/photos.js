@@ -27,7 +27,7 @@ const PHOTOS = [
   {
     id: 4,
     file: "photo4.jpg",
-    caption: "By the Nile ⚓",
+    caption: "By the canal ⚓",
   },
   {
     id: 5,
